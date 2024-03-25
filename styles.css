@@ -4,13 +4,6 @@ body {
     background: rgba(0, 0, 0, 0.9);
     font-family: Arial, Helvetica, sans-serif;
   }
-  
-  /* h2 {
-    text-align: center;
-    color: red;
-    margin-top: 50px;
-  }
-   */
 
    .app-body {
   text-align: center;
@@ -78,9 +71,6 @@ h2, h3 {
 
   ul {
     display: flex;
-    /* justify-content: center;
-    align-items: center;
-    height: 100vh; */
     margin: 0;
     padding: 0; 
   }
